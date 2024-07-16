@@ -33,7 +33,7 @@ I ran a linear regression analysis including Pearson's R, to find the strenght o
 The R-squared value of 0.17 indicates that approximately 17% of the variability in the total number of vehicles can be explained by the number of eligible vehicles. This suggests a weak but positive relationship. There might be other significant factors influencing the total number of vehicles that are not captured by this model.
 ![Fig4](https://github.com/user-attachments/assets/738ccad1-b62c-4aa9-a215-bd949d7949c9)
 
-This indicates that for each additional eligible vehicle, there is an estimated average increase of approximately 1.56 in the total number of vehicles. This suggests that vehicles eligible for government incentives or benefits are positively contributing to the total number of registered vehicles
+This indicates that for each additional eligible vehicle, there is an estimated average increase of approximately 1.56 in the total number of vehicles. This suggests that vehicles eligible for government incentives or benefits are positively contributing to the total number of registered vehicles. 
 
 Conclusion:
 The analysis proves that their a weak positive relationship between the availability of government tax credits for clean alternative fuel vehicles and the total number of registered electric vehicles. Even thought there is an increase in eligible vehicles as the total number of registered vehicles grows, the effect is not very strong. This finding was surpising, as I expected that a potential tax incentive would intice a higher response in demand. This suggests that other factors, for example infrastructure, consumer education or gas price, could be playing a bigger role when it comes to determining electric vehicle growth in the State of Washington. 
@@ -43,4 +43,9 @@ The analysis proves that their a weak positive relationship between the availabi
 The statistical analysis, visualization, and overall code production for this project was self generated with the help of fellow group contributors, class activites, ChatGpt, and Xper Learning Assistant. 
 
 
-
+<img width="808" alt="Screenshot 2024-07-16 at 11 15 15 AM" src="https://github.com/user-attachments/assets/602742a0-9224-4ff7-b5de-ae38ef60f5cb">
+<img width="715" alt="Screenshot 2024-07-16 at 11 17 39 AM" src="https://github.com/user-attachments/assets/67283b9a-c052-47d8-9b0d-2a166518e95c">
+<img width="566" alt="Screenshot 2024-07-16 at 11 17 57 AM" src="https://github.com/user-attachments/assets/3f2ebad4-866a-4af5-83c9-2e31e204dc2e">
+<img width="622" alt="Screenshot 2024-07-16 at 11 24 24 AM" src="https://github.com/user-attachments/assets/87dfd370-55b2-4b0d-92ec-84a0b8cebb64">
+<img width="997" alt="Screenshot 2024-07-16 at 11 24 52 AM" src="https://github.com/user-attachments/assets/f3a74e95-b820-4bf5-80f6-c48427d12e4e">
+<img width="880" alt="Screenshot 2024-07-16 at 11 25 43 AM" src="https://github.com/user-attachments/assets/b6e68213-a5f7-459a-b437-49434c0a0124">
