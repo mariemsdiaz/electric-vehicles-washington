@@ -12,7 +12,12 @@ Identify Contributing Factors: Explore the variables influencing the growth of E
 Methodology:
 Our analysis leverages comprehensive data sources, including state vehicle registrations, electric and non-electric car data sources, gasoline price and housegold median income data. By applying data-driven insights and statistical analytical tools, we aim to provide a thorough understanding of the driving forces behind the surge in EV adoption across the state.
 
-
+NIAZ's PORTION
+------
+-----
+-----
+----
+ 
 Conclusion: 
 As we embark on this journey of exploration, it is clear that electric vehicles represent not just a mode of transport, but a paradigm shift towards a cleaner, more sustainable future. Through this research project, we succeded in illuminating the factors responsible for contributing to the growth of EVs in Washington State, paving the way for informed decisions and transformative policies and consumer decesions in the years to come.
   
