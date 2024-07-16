@@ -23,6 +23,7 @@ Starting this analysis, we wanted to get an overview of the data we had availabl
 From here, we also wanted to find a percentage growth by year and also an overall percentage growth from 2014 to 2024. This allowed us to see the steady growth of EV's, that had its peak in 2023, but continues steady in a positive direction. 
 
 <img width="715" alt="Screenshot 2024-07-16 at 11 17 39 AM" src="https://github.com/user-attachments/assets/67283b9a-c052-47d8-9b0d-2a166518e95c">
+
 <img width="566" alt="Screenshot 2024-07-16 at 11 17 57 AM" src="https://github.com/user-attachments/assets/3f2ebad4-866a-4af5-83c9-2e31e204dc2e">
 
 Relationship between Availability of Models and the Amount of Registered Cars
@@ -37,6 +38,7 @@ Slope: The slope of 457.10 indicates that for each additional car model introduc
 Intercept: The intercept of -1714.18 is part of the regression equation.
 R-squared: The R-squared value of 0.71 suggests that approximately 71% of the variability in the total number of vehicles can be explained by the number of car models available.
 P-value: The p-value of 0.00 confirms that the regression model is statistically significant.
+
 ![Fig5](https://github.com/user-attachments/assets/e61745cc-8640-4006-9042-65b1e725ec33)
 
 Conclusion:
@@ -55,6 +57,7 @@ We wanted to start narrowing down our analysis by grouping my car data by eligib
 Statistical Interpretation:
 We ran a linear regression analysis including Pearson's R, to find the strenght of this relationship, and then we ploted my graph accodingly. 
 The R-squared value of 0.17 indicates that approximately 17% of the variability in the total number of vehicles can be explained by the number of eligible vehicles. This suggests a weak but positive relationship. There might be other significant factors influencing the total number of vehicles that are not captured by this model.
+
 <img width="997" alt="Screenshot 2024-07-16 at 11 24 52 AM" src="https://github.com/user-attachments/assets/f3a74e95-b820-4bf5-80f6-c48427d12e4e">
 
 ![Fig4](https://github.com/user-attachments/assets/738ccad1-b62c-4aa9-a215-bd949d7949c9)
