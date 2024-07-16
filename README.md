@@ -1,4 +1,4 @@
-Analysis of Project 1 Findings
+Project 1 Analysis Plan and Findings 
 
 Starting this analysis, I wanted to get an overview of the data we had available to get a big picture of our story and find interesting aspects to further explore. I looked up total cars, unique cars, amount of cars per city, and what year had the largest amount of registrations. We didn't have the year the car was registered, bu we had the year of the car make so i was able to find a summary of the last ten years to visualize any trends. 
 ![Fig2](https://github.com/user-attachments/assets/c9bb31f1-a3f4-42a9-a005-1042221b12cb)
