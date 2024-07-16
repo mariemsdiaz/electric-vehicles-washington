@@ -21,6 +21,7 @@ Starting this analysis, we wanted to get an overview of the data we had availabl
 ![Fig2](https://github.com/user-attachments/assets/c9bb31f1-a3f4-42a9-a005-1042221b12cb)
 
 From here, we also wanted to find a percentage growth by year and also an overall percentage growth from 2014 to 2024. This allowed us to see the steady growth of EV's, that had its peak in 2023, but continues steady in a positive direction. 
+
 <img width="715" alt="Screenshot 2024-07-16 at 11 17 39 AM" src="https://github.com/user-attachments/assets/67283b9a-c052-47d8-9b0d-2a166518e95c">
 <img width="566" alt="Screenshot 2024-07-16 at 11 17 57 AM" src="https://github.com/user-attachments/assets/3f2ebad4-866a-4af5-83c9-2e31e204dc2e">
 
