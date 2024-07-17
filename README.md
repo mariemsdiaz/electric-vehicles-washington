@@ -70,10 +70,6 @@ This indicates that for each additional eligible vehicle, there is an estimated 
 *Conclusion:*
 The analysis proves that their a weak positive relationship between the availability of government tax credits for clean alternative fuel vehicles and the total number of registered electric vehicles. Even thought there is an increase in eligible vehicles as the total number of registered vehicles grows, the effect is not very strong. This finding was surpising, as we expected that a potential tax incentive would intice a higher response in demand. This suggests that other factors, for example infrastructure, consumer education or gas price, could be playing a bigger role when it comes to determining electric vehicle growth in the State of Washington. 
 
-
-NIAZ's PORTION
-![Screenshot 2024-07-13 at 11 14 10 PM](https://github.com/user-attachments/assets/bc3b8dba-779f-4c0a-b295-e55f821da8de)
-
  
 # **Conclusion:** 
 As we embark on this journey of exploration, it is clear that electric vehicles represent not just a mode of transport, but a paradigm shift towards a cleaner, more sustainable future. Through this research project, we succeded in illuminating the factors responsible for contributing to the growth of EVs in Washington State, paving the way for informed decisions and transformative policies and consumer decesions in the years to come.
@@ -81,7 +77,7 @@ As we embark on this journey of exploration, it is clear that electric vehicles 
 **Trends**
 
   We looked at EVs by make to look at the makeup of data. Noticed Tesla was the majority of EVs - 44%.
-
+![Screenshot 2024-07-13 at 11 14 10 PM](https://github.com/user-attachments/assets/bc3b8dba-779f-4c0a-b295-e55f821da8de)
 
 We looked at make and model year to see the trends year by year.
 
