@@ -99,7 +99,7 @@ We looked at the correlation between gasoline prices and the number of EVs sold.
 ![Screenshot 2024-07-13 at 11 19 29 PM](https://github.com/user-attachments/assets/7c4e01db-407f-4c99-b47f-6222521e0f33)
 
 
-![Screenshot 2024-07-13 at 9 48 47 PM](https://github.com/user-attachments/assets/8d38401e-1cc3-430c-b0cd-6bfad3c9d4fc)
+
 ![Screenshot 2024-07-13 at 9 41 56 PM](https://github.com/user-attachments/assets/aa09ac46-a3ea-4ead-8c94-8c76665a3216)
 
 
