@@ -103,7 +103,7 @@ We looked at the correlation between gasoline prices and the number of EVs sold.
 
 ![Screenshot 2024-07-13 at 9 41 56 PM](https://github.com/user-attachments/assets/aa09ac46-a3ea-4ead-8c94-8c76665a3216)
 
-# group_project_1
+# Ruby_group_project_1
 The mian goal of the analysis is to identify the trends and patternts of the electric vehicles in the Washington state.  This project analyzes the growth of electric vehicles (EVs) compared to non-electric vehicles over the years 2020 to 2024 using data from a CSV file named "Electric_Vehicle_Population_Size_History_By_County" from (https://catalog.data.gov/). In order to get the result the following tests were done.The data is visualized in a bar chart showing the annual counts of EVs and non-EVs
 
 # Electric Vehicle Population Analysis
