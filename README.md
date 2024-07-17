@@ -75,7 +75,8 @@ The analysis proves that their a weak positive relationship between the availabi
 As we embark on this journey of exploration, it is clear that electric vehicles represent not just a mode of transport, but a paradigm shift towards a cleaner, more sustainable future. Through this research project, we succeded in illuminating the factors responsible for contributing to the growth of EVs in Washington State, paving the way for informed decisions and transformative policies and consumer decesions in the years to come.
 
 
-**Detailed Analysis of EV Trends by Make and Model Year**
+# Detailed Analysis of EV Trends
+
 We conducted a comprehensive analysis of electric vehicle (EV) trends by examining the make and model year of the vehicles. This approach allowed us to uncover patterns and shifts in the EV market over time.
 
 **Key Steps and Insights:**
@@ -130,7 +131,7 @@ This analysis of EV trends by make and model year provided valuable insights int
 
 <img width="1245" alt="Screenshot 2024-07-17 at 3 38 48 AM" src="https://github.com/user-attachments/assets/ec43053e-ff09-485d-8ac4-9233be35c682">
 
-**Summary of Regression Analysis on EV Data**
+# Summary of Regression Analysis on EV Data
 In our analysis, we performed regression analysis to explore the relationship between various factors in the electric vehicle (EV) dataset. Specifically, we examined the following correlations:
 
 **Household Median Income vs. Number of EVs:**
