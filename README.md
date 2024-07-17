@@ -76,11 +76,31 @@ As we embark on this journey of exploration, it is clear that electric vehicles 
 
 **Trends**
 
-  We looked at EVs by make to look at the makeup of data. Noticed Tesla was the majority of EVs - 44%.
+The code creates a visually distinct bar chart where each bar represents the number of cars for a specific make, and each bar is a different color. This allows for easy differentiation between the various car makes in the dataset. The chart title provides context for the data being displayed, and the y-axis label is removed for a cleaner appearance.
   ![Screenshot 2024-07-13 at 9 48 47 PM](https://github.com/user-attachments/assets/70bb2393-11f0-445a-893f-23a07ab428fb)
 ![Screenshot 2024-07-13 at 11 14 10 PM](https://github.com/user-attachments/assets/bc3b8dba-779f-4c0a-b295-e55f821da8de)
+Code sample:
+# Count the number of cars for each make
+make_counts = ev_data['Make'].value_counts()
+
+# Generate a color map with a different color for each bar
+colors = plt.cm.get_cmap('tab20', len(make_counts))
+
+# Create a bar chart with each bar a different color
+plt.figure(figsize=(15, 6))
+make_counts.plot(kind='bar', color=[colors(i) for i in range(len(make_counts))])
+plt.title('Number of Cars by Make')
+plt.ylabel('')  # Remove the default 'Number of Cars' label
+plt.show()
 
 We looked at make and model year to see the trends year by year.
+<img width="1245" alt="Screenshot 2024-07-17 at 3 38 48 AM" src="https://github.com/user-attachments/assets/ec43053e-ff09-485d-8ac4-9233be35c682">
+
+Top 10 Makes Without Tesla:
+The code groups the electric vehicle (EV) data by model year and make, excluding Tesla, to identify trends in EV sales over time.
+By focusing on the top 10 makes, it highlights which manufacturers, aside from Tesla, have significant market presence in different years.
+The stacked bar chart visually represents the number of EVs sold by make for each model year, allowing for an easy comparison of trends across different manufacturers over time.
+Sorting the data within each year in descending order helps in quickly identifying the dominant makes in each year.
 
 
 We looked at the correlation between Household Median Income and the number of EVs sold. According to this regression analysis, there is a correlation Income and EV purchases with R-squared of 0.55.
@@ -90,18 +110,7 @@ We looked at the correlation between Household Median Income and the number of E
 We looked at the correlation between gasoline prices and the number of EVs sold. According to this regression analysis, there is a modest correlation between gasoline prices and EV purchases.
 ![Screenshot 2024-07-14 at 11 06 42 AM](https://github.com/user-attachments/assets/aa6d94bc-3268-492f-b7e7-b7c066bfbbdd)
 
-<img width="1230" alt="Screenshot 2024-07-16 at 9 55 18 PM" src="https://github.com/user-attachments/assets/2cc8faed-01ee-44a0-ad72-01e5f4843121">
 
-![Screenshot 2024-07-15 at 7 19 01 PM](https://github.com/user-attachments/assets/ced1e5bf-df4a-4be5-86fd-f3e7e5e78695)
-
-![Screenshot 2024-07-13 at 11 10 21 PM](https://github.com/user-attachments/assets/59085a2f-8e3b-4147-b717-17da5904bcb8)
-
-
-![Screenshot 2024-07-13 at 11 19 29 PM](https://github.com/user-attachments/assets/7c4e01db-407f-4c99-b47f-6222521e0f33)
-
-
-
-![Screenshot 2024-07-13 at 9 41 56 PM](https://github.com/user-attachments/assets/aa09ac46-a3ea-4ead-8c94-8c76665a3216)
 
 # Ruby_group_project_1
 The mian goal of the analysis is to identify the trends and patternts of the electric vehicles in the Washington state.  This project analyzes the growth of electric vehicles (EVs) compared to non-electric vehicles over the years 2020 to 2024 using data from a CSV file named "Electric_Vehicle_Population_Size_History_By_County" from (https://catalog.data.gov/). In order to get the result the following tests were done.The data is visualized in a bar chart showing the annual counts of EVs and non-EVs
