@@ -3,13 +3,12 @@ The mian goal of the analysis is to identify the trends and patternts of the ele
 
 # Electric Vehicle Population Analysis
 These data illustrating the growth of electric vehicles (EVs) versus non-electric vehicles from 2020 to 2024, The chart compares the total number of electric vehicles to non-electric vehicles over a five-year period (2020-2024). It also helps to understand the adoption rate of electric vehicles in comparison to traditional vehicles. 
-<img width="624" alt="Beniging codes" src="https://github.com/user-attachments/assets/0b8cbbc0-c629-4d9b-8bdb-9ff2e86d52ff">
 
 # Plot the bar chart with numbers on the bars:
-![Screenshot 2024-07-16 211648](https://github.com/user-attachments/assets/f29cd8ad-ee4b-4450-b549-57d1a6dfbc14)
+
 ![Screenshot 2024-07-16 211731](https://github.com/user-attachments/assets/63b14646-1602-4c48-bf9f-4684b11da756)
 
-!![Percentage of Electric Vehicles by Year](https://github.com/user-attachments/assets/e4eb0295-1aa5-4cfc-a1a8-dffaca3313c7)
+![Graph_5](https://github.com/user-attachments/assets/cba63319-8cb7-4c35-8e26-b30bafbf0adf)
 
 The proportion of electric vehicles over the specified years, highlighting trends and fluctuations in the adoption of electric vehicles.
 This segment indicates that in 2017, EVs involved, on average, 6.0% of the total vehicle population. In 2018, EVs made up 6.8% of the total vehicle population.For 2019, the mean percentage of electric vehicles was 9.5%. The year 2020 saw an increase, with electric vehicles accounting for 11.1% of the total.There was a significant rise in 2021, where 17.3% of the vehicles were electric. 
