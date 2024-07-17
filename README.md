@@ -77,6 +77,7 @@ As we embark on this journey of exploration, it is clear that electric vehicles 
 **Trends**
 
   We looked at EVs by make to look at the makeup of data. Noticed Tesla was the majority of EVs - 44%.
+  ![Screenshot 2024-07-13 at 9 48 47 PM](https://github.com/user-attachments/assets/70bb2393-11f0-445a-893f-23a07ab428fb)
 ![Screenshot 2024-07-13 at 11 14 10 PM](https://github.com/user-attachments/assets/bc3b8dba-779f-4c0a-b295-e55f821da8de)
 
 We looked at make and model year to see the trends year by year.
@@ -95,7 +96,7 @@ We looked at the correlation between gasoline prices and the number of EVs sold.
 
 ![Screenshot 2024-07-13 at 11 10 21 PM](https://github.com/user-attachments/assets/59085a2f-8e3b-4147-b717-17da5904bcb8)
 
-![Screenshot 2024-07-13 at 9 48 47 PM](https://github.com/user-attachments/assets/70bb2393-11f0-445a-893f-23a07ab428fb)
+
 ![Screenshot 2024-07-13 at 11 19 29 PM](https://github.com/user-attachments/assets/7c4e01db-407f-4c99-b47f-6222521e0f33)
 
 
