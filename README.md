@@ -2,6 +2,7 @@
 
 Electric vehicles have emerged as a pivotal solution in the quest for sustainable transportation alternatives. With advancements in technology, expanding infrastructure, and growing environmental awareness, EVs have gained traction as viable options for consumers and policymakers alike. Washington State, known for its progressive stance on environmental sustainability, has become a focal point in this global shift towards cleaner mobility solutions.
 
+
 *Objectives of the Research and Analysis:*
 
 Examine Growth Trends: Analyze the trajectory of EV adoption in Washington State across our data set, primarily with a focus over the last ten years. We primary focused on the vehicle registration growth, as a way to gage consumer interest in positive trends that could pretict future trends. 
@@ -12,7 +13,9 @@ Identify Contributing Factors: Explore the variables influencing the growth of E
 *Methodology:*
 Our analysis leverages comprehensive data sources, including state vehicle registrations, electric and non-electric car data sources, gasoline price and housegold median income data. By applying data-driven insights and statistical analytical tools, we aim to provide a thorough understanding of the driving forces behind the surge in EV adoption across the state.
 
-# *TAX INCENTIVES AND DIVERSITY OF SUPPLY*
+[Project Presentation in Slides HERE] (https://docs.google.com/presentation/d/1ZmoP9o2VKHLvygdWV3iQqxD_uJANb_G0lu4hFNyJKoI/edit?usp=sharing)
+
+# *Tax Incentives and Diversity of Supply*
 
 Starting this analysis, we wanted to get an overview of the data we had available to get a big picture of our story and find interesting aspects to further explore. We looked up total cars, unique cars, amount of cars per city, and what year had the largest amount of registrations. We didn't have the year the car was registered, bu we had the year of the car make so we were able to find a summary of the last ten years to visualize any trends. 
 
