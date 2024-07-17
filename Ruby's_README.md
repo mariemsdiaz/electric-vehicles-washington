@@ -1,4 +1,4 @@
-# group_project_1
+# Ruby's work on group_project_1
 The mian goal of the analysis is to identify the trends and patternts of the electric vehicles in the Washington state.  This project analyzes the growth of electric vehicles (EVs) compared to non-electric vehicles over the years 2020 to 2024 using data from a CSV file named "Electric_Vehicle_Population_Size_History_By_County" from (https://catalog.data.gov/). In order to get the result the following tests were done.The data is visualized in a bar chart showing the annual counts of EVs and non-EVs
 
 # Electric Vehicle Population Analysis
