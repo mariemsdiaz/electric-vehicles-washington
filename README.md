@@ -80,13 +80,13 @@ The code creates a visually distinct bar chart where each bar represents the num
   ![Screenshot 2024-07-13 at 9 48 47 PM](https://github.com/user-attachments/assets/70bb2393-11f0-445a-893f-23a07ab428fb)
 ![Screenshot 2024-07-13 at 11 14 10 PM](https://github.com/user-attachments/assets/bc3b8dba-779f-4c0a-b295-e55f821da8de)
 Code sample:
-# Count the number of cars for each make
+ount the number of cars for each make
 make_counts = ev_data['Make'].value_counts()
 
-# Generate a color map with a different color for each bar
+Generate a color map with a different color for each bar
 colors = plt.cm.get_cmap('tab20', len(make_counts))
 
-# Create a bar chart with each bar a different color
+Create a bar chart with each bar a different color
 plt.figure(figsize=(15, 6))
 make_counts.plot(kind='bar', color=[colors(i) for i in range(len(make_counts))])
 plt.title('Number of Cars by Make')
