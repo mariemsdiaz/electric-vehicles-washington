@@ -1,0 +1,72 @@
+Detailed Analysis of EV Trends
+We conducted a comprehensive analysis of electric vehicle (EV) trends by examining the make and model year of the vehicles. This approach allowed us to uncover patterns and shifts in the EV market over time.
+
+Key Steps and Insights: Data Grouping and Initial Analysis:
+
+We grouped the EV data by 'Model Year' and 'Make', counting the number of vehicles for each combination. This initial step provided a clear view of the distribution of EVs across different years and manufacturers.
+Exclusion of Tesla:
+
+To focus on the broader market and avoid the overwhelming dominance of Tesla, we filtered out Tesla vehicles from the dataset. This exclusion enabled us to analyze other manufacturers' contributions to the EV market more clearly.
+
+Identification of Top 10 Makes:
+
+By calculating the total count of EVs for each make, we identified the top 10 manufacturers with the highest number of vehicles. This selection highlighted the key players in the EV market aside from Tesla.
+
+Data Filtering for Top Makes:
+
+We filtered the dataset to include only the top 10 makes. This step ensured that our analysis concentrated on the most significant manufacturers, providing a more focused view of market trends.
+
+Pivoting the Data for Visualization:
+
+The filtered data was pivoted to create a DataFrame where 'Model Year' was the index and 'Make' was the columns, with the counts of vehicles as values. This format facilitated the creation of a stacked bar chart, allowing for a visual comparison of EV counts across different makes and years.
+
+Sorting Data Within Each Year:
+
+We sorted the counts within each year in descending order. This sorting made it easier to identify the dominant makes in each year, highlighting which manufacturers led the market over time.
+
+Visualization with Stacked Bar Chart:
+
+A stacked bar chart was created to visually represent the number of EVs sold by make for each model year. Each bar represented a model year, with segments within the bars showing the counts for each make. This visualization provided a clear, year-by-year comparison of market trends among the top 10 manufacturers.
+
+Observations and Trends:
+
+Market Dominance and Shifts: The analysis revealed how certain manufacturers gained or lost market share over the years. Peaks in the chart indicated years of significant growth for particular makes, while troughs highlighted periods of decline. Emerging Players:
+
+By excluding Tesla, we were able to identify emerging players in the EV market that might have been overshadowed by Tesla's high sales volumes. This provided insights into which manufacturers are gaining traction among consumers.
+
+Consumer Preferences: The trends observed in the stacked bar chart reflected changing consumer preferences and technological advancements. Manufacturers that consistently appeared in the top ranks demonstrated strong market strategies and innovation.
+
+Market Dynamics: The year-by-year comparison illustrated the dynamic nature of the EV market. External factors such as economic conditions, government incentives, and technological breakthroughs likely influenced the trends observed.
+
+Conclusion: This analysis of EV trends by make and model year provided valuable insights into the evolving landscape of the electric vehicle market. By focusing on the top manufacturers and excluding Tesla, we were able to uncover significant patterns and shifts that highlight the competitive nature of the industry and the changing preferences of consumers.
+
+Screenshot 2024-07-13 at 9 48 47 PM Screenshot 2024-07-13 at 11 14 10 PM
+
+Screenshot 2024-07-17 at 3 38 48 AM
+Summary of Regression Analysis on EV Data
+In our analysis, we performed regression analysis to explore the relationship between various factors in the electric vehicle (EV) dataset. Specifically, we examined the following correlations:
+
+Household Median Income vs. Number of EVs:
+
+Objective: To determine if there's a correlation between household median income and the number of EVs in different counties. Method: We merged the EV data with county household median income data and performed a simple linear regression analysis.
+
+Results: R-squared: 0.55, indicating a moderate positive correlation. Interpretation: This suggests that higher-income households are more likely to purchase EVs, showing that income is a significant factor in EV adoption. Graph: The scatter plot with a regression line and the equation was presented, showing the positive trend between income and EV numbers.
+
+Gasoline Prices vs. Number of EVs:
+
+Objective: To investigate if rising gasoline prices contribute to an increase in EV sales. Method: We used historical gasoline price data and matched it with EV sales data by model year to perform a regression analysis.
+
+Results: R-squared: 0.25, indicating a weak positive correlation. Interpretation: This weak correlation suggests that while high gasoline prices might influence some consumers to switch to EVs, it's not the primary driver of EV sales. Other factors likely play more significant roles.
+
+Graph: The scatter plot with a regression line showed that the relationship between gasoline prices and EV sales is not strong.
+
+Detailed Findings: Household Median Income vs. Number of EVs: Data Preparation: We merged county data on household median income with the EV data, ensuring any missing income data was handled appropriately. Regression Results: Graphical Representation: The regression line on the scatter plot provided a visual affirmation of the positive correlation.
+
+Gasoline Prices vs. Number of EVs: Data Preparation: Gasoline prices were averaged by year and merged with EV sales data by model year. Regression Results: Graphical Representation: The scatter plot with the regression line demonstrated the weak positive trend. Conclusion: The regression analyses provided insights into the factors influencing EV adoption. Higher household median incomes were moderately correlated with increased EV numbers, suggesting economic capability is a crucial factor. Conversely, gasoline prices showed only a weak correlation with EV sales, indicating that while fuel costs might impact consumer decisions, they are not the predominant factor driving the adoption of electric vehicles. These findings help understand the market dynamics and the influences on EV adoption.
+
+Graphs are below:
+
+We looked at the correlation between Household Median Income and the number of EVs sold. According to this regression analysis, there is a correlation Income and EV purchases with R-squared of 0.55. Screenshot 2024-07-14 at 11 06 59 AM
+
+We looked at the correlation between gasoline prices and the number of EVs sold. According to this regression analysis, there is a modest correlation between gasoline prices and EV purchases. Screenshot 2024-07-14 at 11 06 42 AM
+
